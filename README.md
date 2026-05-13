@@ -1,36 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 404 Hall of Fame
+
+404 Hall of Fame is a community-driven platform that showcases the internet’s most creative and visually impressive 404 pages.
+
+The project is designed for developers, designers, and frontend enthusiasts who want to explore unique error page experiences, discover design inspiration, and contribute their own creations.
+
+---
+
+## Website Link
+https://404-hall-of-fame.vercel.app/
+
+
+
+## Features
+
+- Interactive 404 page gallery
+- Search and category filtering
+- Voting system interface
+- Detailed modal previews
+- Community submission form
+- Responsive modern UI
+- Animated visual effects
+- Open-source contribution support
+
+---
+
+## Tech Stack
+
+- Next.js
+- React
+- JavaScript
+- CSS
+
+---
+
+## Project Structure
+
+```plaintext
+app/
+│
+├── layout.tsx
+├── globals.css
+└── page.jsx
+```
+
+---
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
+
+```bash
+git clone https://github.com/U-Sahil/404-hall-of-fame.git
+```
+
+Move into the project directory:
+
+```bash
+cd 404-hall-of-fame
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```plaintext
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
+Contributions are welcome from developers of all skill levels.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can contribute by:
+- Adding new 404 pages
+- Improving the UI
+- Fixing bugs
+- Adding animations
+- Improving accessibility
+- Creating new features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Contribution Steps
 
-## Deploy on Vercel
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your updates
+5. Open a pull request
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Future Plans
+
+- Database integration
+- Real user submissions
+- Authentication system
+- Community profiles
+- Leaderboards
+- API support
+
+---
+
+## Vision
+
+The goal of this project is to create a curated collection of the internet’s best 404 pages while giving contributors a real-world open-source collaboration experience.
+
+---
