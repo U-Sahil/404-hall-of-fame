@@ -45,7 +45,7 @@ app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/404-hall-of-fame.git](https://github.com/U-Sahil/404-hall-of-fame.git
+git clone https://github.com/your-username/404-hall-of-fame.git
 ```
 
 Move into the project directory:
